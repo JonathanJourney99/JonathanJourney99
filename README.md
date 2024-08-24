@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/-@Akasxh-%23000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/s-akash-project-gia/)
 [![](https://img.shields.io/website?color=fffffff&style=flat-square&up_message=Akasxh.me&url=https://akasxh.github.io/)](https://akasxh.github.io/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akasxh&card_width=250t&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs&theme=dark&rank_icon=percentile" />
+<a href="https://github.com/JonathanJourney99/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanJourney99&card_width=250t&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs&theme=dark&rank_icon=percentile" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akasxh&layout=compact&langs_count=4&card_width=250&theme=dark" />
+<a href="https://github.com/JonathanJourney99/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanJourney99&layout=compact&langs_count=4&card_width=250&theme=dark" />
 </a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 Learn
