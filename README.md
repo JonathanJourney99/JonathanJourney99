@@ -2,7 +2,7 @@
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Jonathan Gomes
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanGomes&show_icons=true&theme=highcontrast)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 Learn
 
