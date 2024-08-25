@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gomes</h1>
 <h3 align="center">Data Scientist Enthusiasts</h3>
-<img align ="center" alt= "GIF" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"
+<img align ="center" alt= "GIF" width="600" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanjourney99&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanjourney99" /> </p>
 
