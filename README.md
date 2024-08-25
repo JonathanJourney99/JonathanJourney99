@@ -13,9 +13,9 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on **Blog Editor**
+- 🔭 I’m currently working on **Blog Editor AI**
 
-- 🌱 I’m currently learning **Frontend Dev**
+- 🌱 I’m currently learning **Exploring AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JonathanJourney99](https://github.com/JonathanJourney99)
 
