@@ -15,7 +15,6 @@
 ---
 
 ## 🛠 Technical Skills  
- https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 ### 🚀 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
