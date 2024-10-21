@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=flask&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" height=40>
 </p>
 
