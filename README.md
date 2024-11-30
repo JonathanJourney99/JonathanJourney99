@@ -26,6 +26,7 @@
 
 ### ⚙️ Libraries/Frameworks  
 <p align="center">
+  <a href="https://www.langchain.com/"><img src="https://lancedb.github.io/lancedb/assets/langchain.png" alt="LangChain" height=50 style="margin-top: 25px;" ></a>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=flask&logoColor=white%22" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
