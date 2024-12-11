@@ -2,9 +2,9 @@
 
 ---
 
-### 🔭 What I'm Working On  **Blog AI Writer with images based on your Topic** 
+### 🔭 What I'm Working On
 - Exploring **AI & ML**  
-- Building a **Blog Editor AI**  
+- Building an AI & ML Web based Project
 
 ---
 
