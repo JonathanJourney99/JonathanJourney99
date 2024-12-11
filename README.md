@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=flask&logoColor=white%22" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" height=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" height=40>
 
 
 
@@ -44,6 +43,7 @@
 ### 🗄 Databases & Services  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" height=40>
 </p>
 
 
