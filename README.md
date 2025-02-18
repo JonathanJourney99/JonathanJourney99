@@ -4,7 +4,6 @@
 
 ### 🔭 What I'm Working On
 - Exploring **AI & ML**  
-- Building an AI Web based Project
 
 ## 🧑🏽‍💻 Tech Skills  
 ### 🚀 Languages  
