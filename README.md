@@ -5,7 +5,6 @@
 ### 🔭 What I'm Working On
 - Exploring **AI & ML**  
 - Building an AI Web based Project
-- [🚀 Learn Anything: CourseCrafter](https://course-crafter-ai-chi.vercel.app/)
 
 ## 🧑🏽‍💻 Tech Skills  
 ### 🚀 Languages  
