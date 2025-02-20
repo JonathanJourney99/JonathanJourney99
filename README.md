@@ -9,6 +9,8 @@
 ### 🚀 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-c-00599C?logo=c%20plus%20plus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-c++-00599C?logo=c%20plus%20plus&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
