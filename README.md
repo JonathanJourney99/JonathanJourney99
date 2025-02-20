@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-c-00599C?logo=c%20plus%20plus&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-c++-00599C?logo=c%20plus%20plus&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
@@ -20,18 +21,22 @@
 
 ### ⚙️ Libraries/Frameworks  
 <p align="center">
-<img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" alt="LangChain" />
+<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="50" style="vertical-align: middle;">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 
 </p>
 
 ### 🗄 Databases & Services  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" height=40>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 
